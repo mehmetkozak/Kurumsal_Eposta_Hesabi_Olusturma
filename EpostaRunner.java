@@ -1,7 +1,8 @@
-package git_eposta_yonetim_uygulamasi.eposta_yonetim_uygulamasi;
+package Kurumsal_Eposta_Hesabi_Olusturma;
 
 public class EpostaRunner {
     public static void main(String[] args) {
+
         Eposta eposta = new Eposta();
     }
 }
